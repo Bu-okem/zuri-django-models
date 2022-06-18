@@ -1,1 +1,1 @@
-# zuri-django-models
+# Zuri Django Models
